@@ -95,7 +95,7 @@ class TurboSMS extends Component
 
         // Send message
         $result = $this->_client->SendSMS($sms);
-        $result = $result->SendSMSResult;
+        $result = $result->SendSMSResult->ResultArray;
         $status = array_shift($result);
         return [
             'status' => $status,
