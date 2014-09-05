@@ -1,6 +1,6 @@
 {
     "name": "kop/yii2-turbosms",
-    "description": "A Yii2 component for working with TurboSMS SOAP service",
+    "description": "A Yii2 component for working with TurboSMS.ua SOAP service",
     "homepage": "http://kop.github.io/yii2-turbosms/",
     "keywords": ["yii2", "sms", "turbosms", "soap"],
     "type": "yii2-extension",

@@ -10,7 +10,7 @@ use yii\base\InvalidConfigException;
 /**
  * TurboSMS component gives you an ability to send SMS messages via TurboSMS.ua SMS gateway.
  *
- * This class is built with use of TurboSMS SOAP service.
+ * This component is built with use of TurboSMS SOAP service.
  *
  * @link      http://turbosms.ua/soap.html TurboSMS SOAP service description.
  * @link      http://kop.github.io/yii2-turbosms Y2SP project page.
