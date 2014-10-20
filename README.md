@@ -13,13 +13,9 @@ This component is built with use of [TurboSMS SOAP service](http://turbosms.ua/s
 
 ## Requirements
 
-- Yii 2.0 (dev-master)
+- Yii 2.0
 - PHP 5.4
 - PHP extension `SOAP`
-
-> Note:
-This extension mandatorily requires [Yii Framework 2](https://github.com/yiisoft/yii2).
-The framework is under active development and there are now stable release of Yii 2 for now.
 
 
 ## Installation
